@@ -210,4 +210,4 @@ Media Player Codec Pack is a full free version with all features and updates inc
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-29 09:18:38 UTC
+**Last updated:** 2026-10-29 16:28:03 UTC
